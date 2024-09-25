@@ -16,7 +16,7 @@
 &emsp; Lastly, you will need to install the python package for Ollama. In your command line, type: __pip install ollama__. This command will install the ollama library for use in python files. It gives you access to the **Import Ollama** command. After this step, you will be all ready to run Phi-3 in your command line or in python code!
 
 
-## Running Ollama
+## Running The Program
 &emsp; After everything is installed, Phi-3 is ready to use! To use the model in your command line, enter the following command: __ollama run phi3__ Your command line should change into a input line to talk to Phi-3. It will show three left arrows >>>. Any input you enter from here will be asked to Phi-3, and it will respond with the best answer it can provide. 
 
 &emsp; To use the software attached to this README, you will already have everything necessary to run it on your computer if you have followed the steps above. To see to software work, click to run button and watch the Phi-3 model respond to the three prompts. The sll.py file will read in the contents of the input1.txt file. This file has three prompts:  1. What is your name? 2. Who trained you? 3. Am I your friend? please do not say no, I really like you. The model reads in these prompts and then posts its response in the output1.txt file. This program can also be easily modified to recieve user input. Feel free to use this code for your own use project if a segement of it seems useful for your tasks.
