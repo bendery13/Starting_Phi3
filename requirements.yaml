@@ -1,0 +1,8 @@
+# This Yaml file will only set up the basics of conda in your environment. 
+# You will have to install ollama with the instructions provided on the README.md file
+# If the dependencies are already installed on your machine, the virtual environment will use those utilities
+
+name: SLL
+channels:
+  - defaults
+prefix: C:\Users\ryant\miniconda3\envs\SLL
