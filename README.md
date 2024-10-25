@@ -1,4 +1,4 @@
-# Get to Meet Phi-3
+
 &emsp; To use this program, you two options for setting up your environment. First, you can create a virtual environment from the connect requirements.yaml file. Importing this file into a virtual environment will install all of the necessary dependencies for running the program. You can do this process by entering  __conda create --name my_yaml_env --file requirement.yaml__ into a command line. This command will create a virtual environment named 'my_yaml_env' - you can change the name of it by editing the prompt above. Once the virtual environment is created, you should be ready to run the program.
 
 &emsp; Second, if the yaml file does not work or you do not have conda installed on your machine, you can also the step below to manual install the necessary packages for the program. These steps will guide you through downloading ollama from the web, installing Phi-3 from ollama, and all related packages. It is a simple process that will only take a couple of minutes. Both processes listed above will have the same end result, the only difference is the way the dependencies are installed.
