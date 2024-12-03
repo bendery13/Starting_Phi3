@@ -27,3 +27,6 @@ conda install ollama lxml requests beautifulsoup4 numpy matplotlib pytest
 
 
 ## Data Analysis
+&emsp; The results, according to the language model, were overwelmingly positive. Each phone had a few negative and neutral reviews, but a majority of the reviews were rated positively. Each time the program runs, it rates the reveiews slightly different. Despite this, the same trends are shown each time with an overwelming amount of positive reviews. Below is one of the graphs that was created when I was running this program.
+
+   ![Pixel Reviews](https://github.com/user-attachments/assets/352507cf-1ce1-4b97-aaad-5179b55c2973)
