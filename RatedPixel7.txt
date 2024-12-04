@@ -1,0 +1,24 @@
+TDMR: Positive, Negative
+Positive
+Positive
+Positive
+Positive
+Positive
+Negative
+Positive
+Positive
+Positive
+Positive
+Positive
+
+(Note: The word "Great" in the title is subject to interpretation as it can be perceived as both positive and neutral depending on the context, but in this case, it leans towards Positive given the follow-up statement in the review.)
+Positive
+Positive
+Positive
+Negative
+Positive
+🆘 Error: The sentiment of the text "Perfect Review: Perfect" cannot be determined as positive, neutral, or negative based on the content provided. It's a meta-statement that doesn't express an opinion about an object or experience but rather states the content's own quality as perfect.
+Positive
+🚫 (Neutral)
+Ambiguous)
+ very, nice, review - the use of "very" can imply either a strongly positive sentiment or a tempered positive sentiment, while "nice" alone can be neutral to mildly positive. Without additional context, it's ambiguous.
