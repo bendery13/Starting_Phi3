@@ -1,7 +1,7 @@
 # Analyzing Google Pixel Phone Reviews
 
 ## Overview
-&emsp; This program is a review rater for the Google Pixel smartphone. It runs the reviews for Pixel models four through eight by Microsoft's Phi-3 Language Model. The language model then rates the reviews either positive, neutral, or negative. After each review is rated, the totals are tallied up and put into a bar graph to see how each model compares to the other Pixel models. This program may take a few minutes to run, as the language model is not quick, but it will show you which review it is looking at to show its progress. Since this program does use a language model, the responses may differ between runs, but it should stay fairly consistent.
+&emsp; This program is a review rater for the Google Pixel smartphone. It runs the reviews for Pixel models four through eight by Microsoft's Phi-3 Language Model. The language model then rates the reviews as either positive, neutral, or negative. After each review is rated, the totals are tallied up and put into a bar graph to see how each model compares to the other Pixel models. This program may take a few minutes to run, as the language model is not quick, but it will show you which review it is looking at to show its progress. Since this program does use a language model, the responses may differ between runs, but it should stay fairly consistent.
 
 ## Installing Packages
 &emsp; To use this program, you have two options for setting up your environment. First, you can create a virtual environment from the connected requirements.yaml file. Importing this file into a virtual environment will install all of the necessary dependencies for running the program. You can do this process by entering the following prompt into a command line. This command will create a virtual environment named 'my_yaml_env' - you can change the name of it by editing the prompt above. Once the virtual environment is created, you should be ready to run the program.
@@ -27,6 +27,6 @@ conda install ollama lxml requests beautifulsoup4 numpy matplotlib pytest
 
 
 ## Data Analysis
-&emsp; The results, according to the language model, were overwelmingly positive. Each phone had a few negative and neutral reviews, but a majority of the reviews were rated positively. Each time the program runs, it rates the reveiews slightly different. Despite this, the same trends are shown each time with an overwelming amount of positive reviews. Below is one of the graphs that was created when I was running this program.
+&emsp; The results, according to the language model, were overwhelmingly positive. Each phone had a few negative and neutral reviews, but a majority of the reviews were rated positively. Each time the program runs, it rates the reviews slightly different. Despite this, the same trends are shown each time with an overwhelming amount of positive reviews. Below is one of the graphs that was created when I was running this program.
 
    ![Pixel Reviews](https://github.com/user-attachments/assets/352507cf-1ce1-4b97-aaad-5179b55c2973)
